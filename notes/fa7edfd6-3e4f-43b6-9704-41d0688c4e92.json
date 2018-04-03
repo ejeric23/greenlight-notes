@@ -1,1 +1,1 @@
-{"title":"function declaration","message":"// Hoisting phase\n\n\t// 1. function declarations, including body\n\t/ 2. var declaration\n\t\n\t// execution phase (from the top!!)","id":"fa7edfd6-3e4f-43b6-9704-41d0688c4e92","date":"2018-03-13T00:42:54.629Z"}
+{"title":"vim","message":"q; quit and not save anything\n\ni: insert mode\n\nESC + :wq = quit with name changed","id":"fa7edfd6-3e4f-43b6-9704-41d0688c4e92","date":"2018-03-13T00:42:54.629Z","updated":"2018-04-03T14:39:05.516Z"}
