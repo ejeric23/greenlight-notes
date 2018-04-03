@@ -1,1 +1,1 @@
-{"title":"vim","message":"q; quit and not save anything\n\ni: insert mode\n\nESC + :wq = quit with name changed","id":"fa7edfd6-3e4f-43b6-9704-41d0688c4e92","date":"2018-03-13T00:42:54.629Z","updated":"2018-04-03T14:39:05.516Z"}
+{"title":"git","message":"git push origin master\n\n\nremote name \n\nbranch master","id":"fa7edfd6-3e4f-43b6-9704-41d0688c4e92","date":"2018-03-13T00:42:54.629Z","updated":"2018-04-03T14:47:09.354Z"}
